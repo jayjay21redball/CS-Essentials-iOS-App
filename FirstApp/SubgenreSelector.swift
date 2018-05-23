@@ -57,6 +57,7 @@ class SubgenreSelector: UITableViewController {
     }
 
     
+    
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
@@ -64,7 +65,7 @@ class SubgenreSelector: UITableViewController {
         // Get the new view controller using segue.destinationViewController.
         // Pass the selected object to the new view controller.
         
-        if segue.identifier == "playGenre" {
+        if segue.identifier == "playGenre" || segue.identifier == "openPlayer"{
             let vc: MyPlayer = segue.destination as! MyPlayer
             vc.selectedGenre = selectedGenre
         }
