@@ -1,0 +1,9 @@
+genres = ["Pop", "Soundtrack", "Dance", "Hip-Hop/Rap", "Alternative", "Rock", "Reggae"]
+
+subgenres = ["Pop": ["Adult Contemporary", "Britpop", "Pop/Rock", "Soft Rock", "Teen Pop", "J-Pop", "K-Pop"],
+"Soundtrack": ["Foreign Cinema", "Musicals", "Original Score", "Soundtrack", "TV Soundtrack"],
+"Dance": ["Breakbeat", "Exercise", "Garage", "Hardcore", "House", "Jungle/Drum’n’bass", "Techno", "Trance"],
+"Hip-Hop/Rap": ["Alternative Rap", "Dirty South", "East Coast Rap", "Gangsta Rap", "Hardcore Rap", "Hip-Hop", "Latin Rap", "Old School Rap", "Rap", "Underground Rap", "West Coast Rap"],
+"Alternative": ["College Rock", "Goth Rock", "Grunge", "Indie Rock", "New Wave", "Punk"],
+"Rock": ["American Trad Rock", "Blues-Rock", "British Invasion", "Death Metal/Black Metal", "Hard Rock", "Metal", "Psychedelic", "Rock & Roll", "Southern Rock"],
+"Reggae": ["Dancehall", "Roots Reggae", "Dub", "Ska"]]
